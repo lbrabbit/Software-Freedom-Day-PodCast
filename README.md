@@ -630,9 +630,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
-[![Creative Commons
-License](../wp-content/plugins/photo-dropper/images/cc.png){width="16"
-height="16"}](http://creativecommons.org/licenses/by/2.0/ "Attribution License")
+
 
 第三十二集 July 20, 2010
 
@@ -709,9 +707,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
-[![Creative Commons
-License](../wp-content/plugins/photo-dropper/images/cc.png){width="16"
-height="16"}](http://creativecommons.org/licenses/by/2.0/ "Attribution License")
+
 
 第三十四集 August 17, 2010
 
@@ -733,9 +729,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
-[![Creative Commons
-License](../wp-content/plugins/photo-dropper/images/cc.png){width="16"
-height="16"}](http://creativecommons.org/licenses/by/2.0/ "Attribution License")
+
 
 第三十五集 September 1, 2010
 
@@ -757,9 +751,7 @@ Software Freedom PodCast介紹各種開源軟件Open Source
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
 -&gt; [Software Freedom PodCast Facebook
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
-[![Creative Commons
-License](../wp-content/plugins/photo-dropper/images/cc.png){width="16"
-height="16"}](http://creativecommons.org/licenses/by/2.0/ "Attribution License")本PodCast以[共享創意署名
+本PodCast以[共享創意署名
 3.0 香港授權條款授權](http://creativecommons.org/licenses/by/3.0/hk/) 。
 
 第三十六集：講女人 October 5, 2010
@@ -844,8 +836,6 @@ Software Freedom PodCast介紹各種開源軟件Open Source
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
 -&gt; [Software Freedom PodCast Facebook
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
-[![Creative Commons
-License](../wp-content/plugins/photo-dropper/images/cc.png){width="16"
-height="16"}](http://creativecommons.org/licenses/by/2.0/ "Attribution License")本PodCast以[共享創意署名
+本PodCast以[共享創意署名
 3.0 香港授權條款授權](http://creativecommons.org/licenses/by/3.0/hk/) 。
 
