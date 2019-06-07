@@ -1,4 +1,4 @@
-# Software-Freedom-Day-PodCast
+# Software Freedom Day PodCast
 
 第一集 August 26, 2009
 
