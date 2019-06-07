@@ -16,9 +16,9 @@
 
 第三集 September 9, 2009
 
-介紹專為管理多部電腦的slim和swim系統、如何脫離M$魔爪和OLPC一孩一電腦。
+介紹專為管理多部電腦的slim和swim系統、如何脫離M$魔爪和OLPC一孩一電腦。\
 共享創意始創人Lawrence Lessig。\
-嘉賓：David Lee、Godfrey、Charles\
+嘉賓：David Lee、Godfrey、Charles
 
 slim和swim的網址\
 http://slimnovation.3utilities.com/
