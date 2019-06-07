@@ -1,4 +1,491 @@
+# Software-Freedom-Day-PodCast
 
+第一集 August 26, 2009
+
+第一集，介紹九月十九號舉行的Software Freedom Day，Software Freedom的來由和自由軟件之父－Richard Stallman
+嘉賓：Sammy、Ben
+
+公告：這集PodCast的第一個版本有來自Snoblind的Songs in the Key of Hope EP Track 5作為背景音樂 http://www.archive.org/details/SRmp3_026_Snoblind_-_Songs_in_the_Key_of_Hope
+。不過其license有Non-Commercial條款，有Google Adsense的網站不能使用，所以在第二版中除去。
+
+第二集 September 2, 2009
+
+第二集，介紹香港的Open Source Developers、Software Freedom\
+新聞：M$被告和PalmPre扮iPhone、Linus Torvalds\
+嘉賓：David Wong、Fai Wong
+
+第三集 September 9, 2009
+
+介紹專為管理多部電腦的slim和swim系統、如何脫離M$魔爪和OLPC一孩一電腦。\
+共享創意始創人Lawrence Lessig。\
+嘉賓：David Lee、Godfrey、Charles
+
+slim和swim的網址\
+http://slimnovation.3utilities.com/   
+http://slim.cs.hku.hk/    
+一只Live DVD有齊兩個system，不用重複download。
+
+第四集 September 16, 2009
+
+今集請來贊助國際軟件自由日的朋友，Sun
+Microsystems的Mickey、Cwlinux的Patrick和HKDay
+BBS的BenCrox，來討論如何用自由軟件黎搵錢 。
+第五集 October 20, 2009
+
+NTFS-3G的作者Tuxera跟微軟達成專利協議。阿根廷UTN(Universidad Tecnologica
+Nacional)大學跟微軟達成協議，拒絕Stallman演講。
+軟件介紹：
+1. Cedega－在Linux上跑Windows Apps的好幫手。http://www.cedega.com/
+2. PortableApss－在USB上可擕式應用軟件Linux上跑Windows Apps的好幫手。http://portableapps.com/
+主持：Haggen、Henry、Joyce
+
+介紹各種開源軟件Open Source Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
+本PodCast以共享創意署名 3.0 香港授權條款授權 http://creativecommons.org/licenses/by/3.0/hk/ 。
+
+第六集 October 27, 2009
+
+Stallman來港、Debian+FreeBSD、芬蘭立法寬頻上網成人權、WikiReader。\
+軟件介紹：Firefox套件-Ubiquity
+
+主持：Haggen、Henry\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第七集 November 3, 2009
+
+Red Hat股價超微軟\
+Linux Kernel Summit\
+介面設計，封閉比開放好？\
+N900和DRM\
+遊戲時間:\
+SuperTux <http://supertux.lethargik.org/>\
+Secret Maryo Chronicles <http://www.secretmaryo.org/>\
+Parallel Realities <http://www.parallelrealities.co.uk/>\
+NetHack <http://www.nethack.org/>
+<http://jedi.org/blog/archives/003676.html>
+
+主持：Haggen、Henry\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第八集 November 19, 2009
+
+Symbian開源\
+Firefox更新\
+Oracle+MySQL的壟斷問題\
+Ubuntu 9.10的新功能 – Cloud Computing\
+UbuntuOne vs DropBox
+
+主持：Haggen、Henry 嘉賓：Ben\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+第九集 December 22, 2009
+
+遠赴四川都江堰訪問OLPC義工團，介紹在不丹和四川的工作。
+
+主持：Haggen、Henry 嘉賓：Jacky、Charles、允良、Ping\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
+
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十集 December 22, 2009
+
+Times Square 也 Free Software  
+零九年大事回顧之一 [1Q](http://lwn.net/Articles/360835/)
+[2Q](http://lwn.net/Articles/363728/)  
+Google DNS  
+[Linux Reaches 32% Netbook Market
+Share](http://www.computerworld.com/s/article/9140343/Linux_s_share_of_netbooks_surging_not_sagging_says_analyst)  
+[Sugar on a Stick v2 – a.k.a. Blueberry –
+released](http://www.h-online.com/open/news/item/Sugar-on-a-Stick-v2-a-k-a-Blueberry-released-879332.html)  
+
+主持：Haggen、Henry\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
+
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十一集 December 29, 2009
+
+Microsoft 為 Linux kernel 提供 Hyper-V drivers\
+Microsoft 承認 Windows 7 工具程式包含 GPL 程式碼 微軟將公開原始程式\
+Negroponte: XO-1.75 goes ARM, XO-2 is canceled\
+PayPal 使用者條款\
+Opensource 與 Java\
+Samsung and Enlightenment\
+Chrome OS 初試
+
+主持：Haggen、Henry
+
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
+
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十二集 January 5, 2010
+
+各位聽眾新年進步，我們雖然近聖誕除夕休息，不過還是搞了個輕盈版的PodCast：
+
+遠赴四川都江堰訪問OLPC義工團，介紹在香港的工作，並談翻牆軟件(這是訪問的第三節，第一、二節收錄在第009集。錄音質素欠佳，請見諒)。\
+自由軟件風雲錄：Firefox
+取得Tor的各種途徑：\
+<https://www.torproject.org/finding-tor>
+
+主持：Haggen、Henry 嘉賓：Jacky、Charles、Ping\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十三集 January 19, 2010
+
+1. [GSM 之破解被公開](http://lwn.net/Articles/368861/)  
+2. [EtherPad](http://etherpad.com/)  
+3. [Linux
+Journal](http://www.linuxjournal.com/content/openmovieeditor-and-blender-more-nle-delights)
+– [OpenMovie Editor](http://www.openmovieeditor.org/) and
+[Blender](http://www.openmovieeditor.org/)  
+4. [Help keep the Internet
+free](http://monty-says.blogspot.com/2009/12/help-keep-internet-free.html)(MySQL)  
+5. The 2009 Linux and free software timeline –
+[Q3](http://lwn.net/Articles/363783/) &
+[Q4](http://lwn.net/Articles/363786/)
+
+主持：Haggen、Henry  
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十四集 February 9, 2010
+
+1\. [HTML5 Video Tag, H264 or
+Theora](http://www.osnews.com/story/22812/MPEG-LA_Further_Solidifies_Theora_as_the_Only_Video_Tag_Choice)\
+2. [TinyOgg](http://www.tinyogg.com/)\
+3. [流動版Firefox – Fennec](http://www.firefox.com/m)\
+4. 中国互联网络信息中心 (CNNIC)
+根證書([1](http://lwn.net/Articles/372264/),[2](http://felixcat.net/2010/01/throw-out-cnnic/))\
+5.
+[Avatar之製作](http://opendotdotdot.blogspot.com/2009/12/what-lies-at-heart-of-avatar.html)\
+6. [Facebook released HipHop for PHP: Move
+Fast](http://developers.facebook.com/news.php?blog=1&story=358)\
+7. [EU Software
+Patents](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2721&blogid=14)\
+8. [FSF objected to amended Google Book Search
+Settlement](http://www.fsf.org/news/2010-02-gbs-objection)
+
+主持：Henry、Haggen\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十五集 February 16, 2010
+
+今次請來三位嘉賓，不過本集的主角是N900並其中的Maemo系統。\
+我們會由日常使用開始，一直講到軟件開發，為你介紹N900有什麼特別之處。
+
+主持：Henry、Haggen 嘉賓：Karl、Fai(lazyfai)、Amanda\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十六集 February 23, 2010
+
+[Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)
+
+1. Maemo + Moblin = [MeeGo](http://meego.com/)  
+- [Community
+Announcement](http://flors.wordpress.com/2010/02/15/maemo-moblin-meego-join-us/)
+2. Aava Mobile’s “fully open” handset
+([1](http://lwn.net/Articles/374534/),[2](http://www.earthtimes.org/articles/show/aava-mobile-debuts-worldrsquos-first-fully-lsquoopenrsquo-mobile-device,1164568.shtml))  
+3. Oracle 完成購併 Sun 外界觀望後續效應 -&gt; [炒了兩個GNOME
+Accessibility
+Engineers](http://blog.grain-of-salt.com/index.php?itemid=394)  
+4. [微軟又教壞人](http://opendotdotdot.blogspot.com/2010/02/is-microsoft-exploiting-innocent.html)？  
+5. [大學的資訊安全問題](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2256&Itemid=144;isletter=1)  
+6. [OpenOffice市場佔有率上升](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2778&blogid=14)  
+7. [如何破壞社群](http://lwn.net/Articles/370157/) -
+[Follow-up](http://it.toolbox.com/blogs/database-soup/sun-and-the-ten-ways-36517) -
+Abel哥的“[軟件·人性·見聞錄](http://me.abelcheung.org/articles/magazine/dark-side-of-foss-world/)”  
+8. [自由/開源軟件對電腦教育的負面影響](http://cacm.acm.org/blogs/blog-cacm/72144-the-impact-of-open-source-on-computing-education/fulltext)  
+- [Greg Wilson: Is the Open-Source Community Setting a Bad
+Example?](http://www.computer.org/portal/web/csdl/doi/10.1109/52.744561)
+
+主持：Henry、Haggen\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十七集 March 9, 2010
+
+[Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)
+
+1\. [Microsoft &
+Amazon專利栛議](http://opendotdotdot.blogspot.com/2010/02/amazon-sells-gnulinux-down-river.html)\
+2. Patent and Free Codec: Google acquired VP8
+([1](http://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube/),[2](http://x264dev.multimedia.cx/?p=292),[3](%20http://blog.gingertech.net/2010/02/20/googles-challenges-of-freeing-vp8/),[4](http://arstechnica.com/software/news/2008/10/benchmarking-flash-player-10.ars))\
+3.
+[蒸氣機時代的專利](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1284/1204)\
+4. [超連結的專利官司 － British
+Telecom](http://news.cnet.com/2100-1033-955001.html)\
+5. [學習管理系統的專利官司 – The Blackboard
+Patent](http://www.downes.ca/blackboard_patent.htm)\
+6. [版權法的另類觀點](http://questioncopyright.org/promise)\
+7.
+[被文件鎖死](http://opendotdotdot.blogspot.com/2010/02/continuing-scandal-of-vendor-lock-in.html)\
+8. [文件自由日](http://documentfreedom.org/)
+
+主持：Henry、Haggen\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十八集 March 16, 2010
+
+[Google Summer of Code訪問](http://code.google.com/soc/)
+
+1. [可疑的中國互聯網絡信息中心 SSL
+憑證](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2266&Itemid=144;isletter=1)\
+2. [微軟要投訴人家壟斷？](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2817&blogid=14)\
+3. [重要的GPL官司 Jacobsen v.
+Katzer](http://www.consortiuminfo.org/standardsblog/article.php?story=201002190850472)\
+4. [一秒Boot起Linux](http://www.edn.com/article/CA6720353.html)\
+5. [Linked-List專利](http://juixe.com/techknow/index.php/2010/03/04/us-patent-linked-list/)\
+6. [北韓的愛國Linux](http://www.osnews.com/story/22960/North_Korea_Develops_Its_Own_Linux_Distribution)
+
+主持：Haggen 嘉賓：KS Chan、Ben Lau、Abel Cheung\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+-&gt; [Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第十九集 March 23, 2010
+
+1. OpenPandora-開放式手提遊戲機\
+-[主網站](http://www.open-pandora.org/)\
+-[OpenPandora計劃主持人EvilDragon在CeBit
+2010介紹開放式手提遊戲機的歷史](http://www.youtube.com/watch?v=T89mHvizwVg)\
+2. [微軟釋出開源軟件U-Prove](http://opendotdotdot.blogspot.com/2010/03/microsoft-proves-it-can-go-open-source.html)\
+3. [The WikiPremed MCAT Course](http://www.wikipremed.com/)
+
+香港少有的Linux Kernel Developer, **David Wong**,
+於三月十九日離開了我們。大家可以到[We miss you David. A memorial for
+David
+Wong(黃德良)](http://www.facebook.com/pages/We-miss-you-David-A-memorial-for-David-Wong-huang-de-liang/107253402634817)Facebook
+Fan Page收到最新的消息。我們在此表達深切哀痛和慰問。
+
+主持：Henry, Haggen\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+-&gt; [Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第二十集 March 31, 2010
+
+拜訪TalkOnly(一)
+
+Software Freedom
+PodCast兩位主持Henry和Haggen三月廿六日到香港歷史最久的網上IT節目[TalkOnly](http://talkonly.net/)當嘉賓，暢談Free/Open
+Source Software。
+
+TalkOnly主持：Netbugs、Debug、ifg、方東A、占占、Q&A\
+TalkOnly嘉賓：小影\
+Software Freedom PodCast主持：Henry, Haggen
+
+公告
+
+1. 香港少有的Linux Kernel Developer, David Wong,
+於三月十九日離開了我們。喪禮訂於四月十六日星期五晚上八時在寶福山紀念館舉行(沙田大圍悠安街1號,
+大圍火車站度有小巴上, 約10分鐘左右一班)。大家可以到[We miss you David. A
+memorial for David Wong(黃德良)Facebook Fan
+Page](http://www.facebook.com/pages/We-miss-you-David-A-memorial-for-David-Wong-huang-de-liang/107253402634817)收到最新的消息。我們在此表達深切哀痛和慰問。
+
+2. 今天是[自由](http://documentfreedom.org/)[文件日](http://documentfreedom.org/)，希望大家注意自由文件格式和公開標準的重要性。可以參考文章[Why
+I’m rejecting your email
+attachment](http://www.fsf.org/news/why-im-rejecting-your-email-attachment)。
+
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+請加入[Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+[http://creativecommons.org/licenses/by/3.0/hk/](http://www.facebook.com/pages/Software-Freedom/355259818857)。
+
+第廿一集 April 6, 2010
+
+1. 台灣自由軟件PodCast – [Born to
+MISrepresent](http://blog.roodo.com/ystuan/archives/cat_507121.html)\
+2. [微軟的免費Office](http://news.cnet.com/8301-13860_3-20001553-56.html)\
+3. Windows Mobile 7暫時不會有Firefox的開發
+([1](http://arstechnica.com/microsoft/news/2010/03/winphones-first-big-native-code-casualty-firefox-on-winmob.ars?utm_source=microblogging&utm_medium=arstch&utm_term=Main%20Account&utm_campaign=microblogging),[2](http://www.engadget.com/2010/03/23/mozilla-halts-firefox-development-for-windows-mobile-wont-offe/))\
+4. [如何在Linux上同時安裝不同版本的Firefox](http://lwn.net/Articles/380420/rss)\
+5. [人類基因可以被登記成專利嗎](http://www.nytimes.com/2010/03/30/business/30gene.html?emc=eta1)?\
+6. [評Google和中國](http://www.rthk.org.hk/rthk/news/expressnews/20100331/news_20100331_55_657701.htm)\
+7. PS3和OpenPandora的新消息
+
+香港少有的Linux Kernel Developer, **David Wong**,
+於三月十九日離開了我們。喪禮訂於四月十六日星期五晚上八時在寶福山紀念館舉行(沙田大圍悠安街1號,
+大圍火車站度有小巴上, 約10分鐘左右一班)。大家可以到[We miss you David. A
+memorial for David Wong(黃德良)Facebook Fan
+Page](http://www.facebook.com/pages/We-miss-you-David-A-memorial-for-David-Wong-huang-de-liang/107253402634817)收到最新的消息。我們在此表達深切哀痛和慰問。
+
+主持：Henry, Haggen\
+介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+-&gt; [Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第廿二集 April 17, 2010
+
+拜訪TalkOnly(二、完)
+
+Software Freedom
+PodCast兩位主持Henry和Haggen三月廿六日到香港歷史最久的網上IT節目[TalkOnly](http://talkonly.net/)當嘉賓，暢談Free/Open
+Source
+Software。本錄音的結尾可連接到TalkOnly三月廿六日第五節十一分鐘的節目。
+
+TalkOnly主持：Netbugs、Debug、ifg、方東A、占占、Q&A\
+TalkOnly嘉賓：小影\
+Software Freedom PodCast主持：Henry, Haggen
+
+本節目介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+請加入[Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857).\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+[http://creativecommons.org/licenses/by/3.0/hk/](http://www.facebook.com/pages/Software-Freedom/355259818857)。
+
+第廿三集 April 20, 2010
+
+訪問LinuxPilot
+
+1. [Mozilla官方2010第一季火狐使用數據](http://blog.mozilla.com/metrics/2010/03/31/mozillas-q1-2010-analyst-report-state-of-the-internet/)\
+2. 火狐包含來歷不明的根憑證
+([1](http://www.theregister.co.uk/2010/04/06/mysterious_mozilla_apple_certificate/),[2](http://groups.google.com/group/mozilla.dev.security.policy/browse_thread/thread/b6493a285ba79998/26fca75f9aeff1dc))\
+3. [WebKit出了第二版 – WebKit2](http://trac.webkit.org/wiki/WebKit2)\
+4. [MeeGo v1.0 Demo at IDF
+2000](http://maemocentral.com/2010/04/15/meego-1-0-running-on-a-netbook-other-devices-at-idf-2010/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MaemoCentral+%28Maemo+Central%29)\
+5. [Ubuntu火狐搜索器變變變](http://lwn.net/Articles/382689/)\
+6. [IBM真的不會告自由軟件作者嗎?](http://fosspatents.blogspot.com/2010/04/ibm-breaks-taboo-and-betrays-its.html)\
+7. Oracle收購Sun – Java之父James Gosling辭職
+([1](http://www.h-online.com/open/news/item/Father-of-Java-leaves-Oracle-975146.html),[2](http://nighthacks.com/roller/jag/entry/time_to_move_on))
+
+主持：Haggen\
+嘉賓：Kenneth Mak (LinuxPilot, Senior Editor)\
+Software Freedom PodCast介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+-&gt; [Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第廿四集 April 27, 2010
+
+1. 為Windows而開發的[The Common Opensource Application Publishing
+Platform
+(CoApp)](http://blogs.msdn.com/garretts/archive/2010/03/31/the-common-opensource-application-publishing-platform-coapp.aspx)\
+2. Wired雜誌訪問Stallman
+([1](http://www.wired.com/magazine/2010/04/ff_hackers/),
+[2](http://catb.org/~esr/writings/rms-bio.html))\
+3. Palm放盤, 最後買會否是OpenMoko社群?
+([1](http://news.bbc.co.uk/2/hi/technology/8618001.stm),
+[2](http://lists.openmoko.org/pipermail/community/2010-April/061374.html))\
+4. [Nokia
+N900將會有行貨](http://amanda_hoic.mysinablog.com/index.php?op=ViewArticle&articleId=2271633)\
+5. 方法專利和軟件專利的重要官師-In re-Bilski
+([1](http://en.wikipedia.org/wiki/In_re_Bilski),
+[2](http://patentabsurdity.com/),
+[3](http://en.wikipedia.org/wiki/Machine-or-transformation_test/))\
+6.
+[台灣特輯](http://mobileradio.hk/programs/SoftwareFreedomPodcast/MRHK_Software_Freedom_PodCast-024-Taiwan-Extra.mp3)
+
+主持：Henry, Haggen\
+Software Freedom PodCast介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+-&gt; [Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第廿五集 May 4, 2010
+
+1\. 跑Linux的”iPad” -&gt; WePad
+([1](http://linux.slashdot.org/story/10/04/13/1810200/WePad-Tablet-Will-Use-Linux-To-Rival-the-iPad?from=rss%20),
+[2](http://www.i4u.com/article32973.html),
+[Spec](http://www.neofonie.de/files/product_specifications_WePad_1004012.pdf%20))\
+2. [Google 傳將釋出 VP8 codec
+原始碼](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2309&Itemid=144;isletter=1)\
+3. [PS3 的 Linux 功能遭移除 Sony
+致歉](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2312&Itemid=144;isletter=1)\
+4. OpenPandora近況
+([1](http://www.open-pandora.org/index.php?option=com_content&view=article&id=174%3Aash-gray&catid=2%3Ablog&Itemid=2&lang=en),
+[2](http://www.open-pandora.org/index.php?option=com_content&view=article&id=175%3Asurprise-attack&catid=2%3Ablog&Itemid=2&lang=en))\
+5. [簡介版本控制系統(Version Control
+Systems)和Subversion的將來](http://lwn.net/Articles/381794/)
+
+主持：Henry, Haggen\
+Software Freedom PodCast介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+-&gt; [Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
+
+第廿六集 May 11, 2010
+
+Business Models
+
+News:
+[Ubuntu都要交H.264授權費?](http://www.h-online.com/open/news/item/Canonical-clarifies-its-H-264-licence-993182.html)
+
+<span style="text-decoration: underline;">Business Models</span>\
+Intro: [FreeBSD的真真Open Source Business
+Model?](http://www.phoronix.com/scan.php?page=article&item=sprewell_licensing&num=1)
+
+1\. Stallman, [The GNU Manifesto –
+1985](http://www.gnu.org/gnu/manifesto.html)\
+2. Raymond, [The Magic Cauldron –
+1999](http://catb.org/~esr/writings/magic-cauldron/)\
+3. Ron Goldman & Richard P. Gabriel, [Innovation Happens Elsewhere –
+2005](http://www.dreamsongs.com/IHE/IHE-36.html)\
+4. [Red
+Hat賣Binaries秘技](http://ianmurdock.com/linux/red-hat-enterprise-linux-is-proprietary/)\
+5. Google的[Meaning of
+Open](http://googlepublicpolicy.blogspot.com/2009/12/meaning-of-open.html)\
+6.
+[另類回饋系統](http://cyber.law.harvard.edu/people/tfisher/PTKChapter6.pdf)\
+7. [有錢一定能推動開發?](http://producingoss.com/en/money.html)\
+8. BSD vs GPL 哪個更能推動開發?\
+9. [終極Business
+Model](http://www.nytimes.com/2009/11/30/technology/business-computing/30open.html?pagewanted=1&_r=1&th&emc=th)
+
+主持：Henry, Haggen\
+Software Freedom PodCast介紹各種開源軟件Open Source
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+-&gt; [Software Freedom PodCast Facebook
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+本PodCast以共享創意署名 3.0 香港授權條款授權
+<http://creativecommons.org/licenses/by/3.0/hk/> 。
 
 第廿七集 May 18, 2010
 
