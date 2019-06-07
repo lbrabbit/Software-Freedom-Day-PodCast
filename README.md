@@ -50,6 +50,7 @@ Stallman來港、Debian+FreeBSD、芬蘭立法寬頻上網成人權、WikiReader
 主持：Haggen、Henry\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第七集 November 3, 2009
 
 Red Hat股價超微軟\
@@ -93,28 +94,24 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
-</div>
-第十集 December 22, 2009\
-\
-Times Square 也 Free Software\
+第十集 December 22, 2009
+
+Times Square 也 Free Software  
 零九年大事回顧之一 [1Q](http://lwn.net/Articles/360835/)
-[2Q](http://lwn.net/Articles/363728/)\
-Google DNS\
+[2Q](http://lwn.net/Articles/363728/)  
+Google DNS  
 [Linux Reaches 32% Netbook Market
-Share](http://www.computerworld.com/s/article/9140343/Linux_s_share_of_netbooks_surging_not_sagging_says_analyst)\
+Share](http://www.computerworld.com/s/article/9140343/Linux_s_share_of_netbooks_surging_not_sagging_says_analyst)  
 [Sugar on a Stick v2 – a.k.a. Blueberry –
-released](http://www.h-online.com/open/news/item/Sugar-on-a-Stick-v2-a-k-a-Blueberry-released-879332.html)
+released](http://www.h-online.com/open/news/item/Sugar-on-a-Stick-v2-a-k-a-Blueberry-released-879332.html)  
 
 主持：Haggen、Henry\
 介紹各種開源軟件Open Source
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
 
-<div id=":x">
-
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
-</div>
 第十一集 December 29, 2009
 
 Microsoft 為 Linux kernel 提供 Hyper-V drivers\
