@@ -1,98 +1,10 @@
 
 
-第廿四集 April 27, 2010
-
-1. 為Windows而開發的[The Common Opensource Application Publishing
-Platform
-(CoApp)](http://blogs.msdn.com/garretts/archive/2010/03/31/the-common-opensource-application-publishing-platform-coapp.aspx)\
-2. Wired雜誌訪問Stallman
-([1](http://www.wired.com/magazine/2010/04/ff_hackers/),
-[2](http://catb.org/~esr/writings/rms-bio.html))\
-3. Palm放盤, 最後買會否是OpenMoko社群?
-([1](http://news.bbc.co.uk/2/hi/technology/8618001.stm),
-[2](http://lists.openmoko.org/pipermail/community/2010-April/061374.html))\
-4. [Nokia
-N900將會有行貨](http://amanda_hoic.mysinablog.com/index.php?op=ViewArticle&articleId=2271633)\
-5. 方法專利和軟件專利的重要官師-In re-Bilski
-([1](http://en.wikipedia.org/wiki/In_re_Bilski),
-[2](http://patentabsurdity.com/),
-[3](http://en.wikipedia.org/wiki/Machine-or-transformation_test/))\
-6.
-[台灣特輯](http://mobileradio.hk/programs/SoftwareFreedomPodcast/MRHK_Software_Freedom_PodCast-024-Taiwan-Extra.mp3)
-
-主持：Henry, Haggen\
-Software Freedom PodCast介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
--&gt; [Software Freedom PodCast Facebook
-Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第廿五集 May 4, 2010
-
-1\. 跑Linux的”iPad” -&gt; WePad
-([1](http://linux.slashdot.org/story/10/04/13/1810200/WePad-Tablet-Will-Use-Linux-To-Rival-the-iPad?from=rss%20),
-[2](http://www.i4u.com/article32973.html),
-[Spec](http://www.neofonie.de/files/product_specifications_WePad_1004012.pdf%20))\
-2. [Google 傳將釋出 VP8 codec
-原始碼](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2309&Itemid=144;isletter=1)\
-3. [PS3 的 Linux 功能遭移除 Sony
-致歉](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2312&Itemid=144;isletter=1)\
-4. OpenPandora近況
-([1](http://www.open-pandora.org/index.php?option=com_content&view=article&id=174%3Aash-gray&catid=2%3Ablog&Itemid=2&lang=en),
-[2](http://www.open-pandora.org/index.php?option=com_content&view=article&id=175%3Asurprise-attack&catid=2%3Ablog&Itemid=2&lang=en))\
-5. [簡介版本控制系統(Version Control
-Systems)和Subversion的將來](http://lwn.net/Articles/381794/)
-
-主持：Henry, Haggen\
-Software Freedom PodCast介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
--&gt; [Software Freedom PodCast Facebook
-Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第廿六集 May 11, 2010
-
-Business Models
-
-News:
-[Ubuntu都要交H.264授權費?](http://www.h-online.com/open/news/item/Canonical-clarifies-its-H-264-licence-993182.html)
-
-<span style="text-decoration: underline;">Business Models</span>\
-Intro: [FreeBSD的真真Open Source Business
-Model?](http://www.phoronix.com/scan.php?page=article&item=sprewell_licensing&num=1)
-
-1\. Stallman, [The GNU Manifesto –
-1985](http://www.gnu.org/gnu/manifesto.html)\
-2. Raymond, [The Magic Cauldron –
-1999](http://catb.org/~esr/writings/magic-cauldron/)\
-3. Ron Goldman & Richard P. Gabriel, [Innovation Happens Elsewhere –
-2005](http://www.dreamsongs.com/IHE/IHE-36.html)\
-4. [Red
-Hat賣Binaries秘技](http://ianmurdock.com/linux/red-hat-enterprise-linux-is-proprietary/)\
-5. Google的[Meaning of
-Open](http://googlepublicpolicy.blogspot.com/2009/12/meaning-of-open.html)\
-6.
-[另類回饋系統](http://cyber.law.harvard.edu/people/tfisher/PTKChapter6.pdf)\
-7. [有錢一定能推動開發?](http://producingoss.com/en/money.html)\
-8. BSD vs GPL 哪個更能推動開發?\
-9. [終極Business
-Model](http://www.nytimes.com/2009/11/30/technology/business-computing/30open.html?pagewanted=1&_r=1&th&emc=th)
-
-主持：Henry, Haggen\
-Software Freedom PodCast介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
--&gt; [Software Freedom PodCast Facebook
-Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
 第廿七集 May 18, 2010
 
 以版權打擊言論自由
 
-新聞\
+新聞  
 1. [用戶集體訴訟控告 Sony 移除 PS3 的 Linux
 支援](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2332&Itemid=144;isletter=1)\
 2. 微軟參加Joomla!社群
@@ -101,8 +13,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 ([1](http://joindiaspora.com/),[2](%20http://gizmodo.com/5537502/diaspora-the-student+made-privacy+respecting-facebook-alternative),[3](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2964&blogid=14))\
 4. [OpenPandora最新消息](http://pandorapress.net/2010/05/14/omgomgomg/)\
 5. [新的檔案系統 btrfs](https://lwn.net/Articles/387196/)\
-6.
-[koha商業分突顯GPL對回歸封閉源碼的有限保障](http://lwn.net/Articles/386284/)
+6. [koha商業分突顯GPL對回歸封閉源碼的有限保障](http://lwn.net/Articles/386284/)
 
 主題：以版權打擊言論自由\
 三個例子\
