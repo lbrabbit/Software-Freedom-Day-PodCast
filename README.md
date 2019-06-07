@@ -68,17 +68,15 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 
 [Google Summer of Code訪問](http://code.google.com/soc/)
 
-1\. [可疑的中國互聯網絡信息中心 SSL
+1. [可疑的中國互聯網絡信息中心 SSL
 憑證](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2266&Itemid=144;isletter=1)\
 2.
 [微軟要投訴人家壟斷？](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2817&blogid=14)\
 3. [重要的GPL官司 Jacobsen v.
 Katzer](http://www.consortiuminfo.org/standardsblog/article.php?story=201002190850472)\
 4. [一秒Boot起Linux](http://www.edn.com/article/CA6720353.html)\
-5.
-[Linked-List專利](http://juixe.com/techknow/index.php/2010/03/04/us-patent-linked-list/)\
-6.
-[北韓的愛國Linux](http://www.osnews.com/story/22960/North_Korea_Develops_Its_Own_Linux_Distribution)
+5. [Linked-List專利](http://juixe.com/techknow/index.php/2010/03/04/us-patent-linked-list/)\
+6. [北韓的愛國Linux](http://www.osnews.com/story/22960/North_Korea_Develops_Its_Own_Linux_Distribution)
 
 主持：Haggen 嘉賓：KS Chan、Ben Lau、Abel Cheung\
 介紹各種開源軟件Open Source
@@ -87,11 +85,10 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
-![](openpandora.jpg)
 
 第十九集 March 23, 2010
 
-1\. OpenPandora-開放式手提遊戲機\
+1. OpenPandora-開放式手提遊戲機\
 -[主網站](http://www.open-pandora.org/)\
 -[OpenPandora計劃主持人EvilDragon在CeBit
 2010介紹開放式手提遊戲機的歷史](http://www.youtube.com/watch?v=T89mHvizwVg)\
@@ -125,16 +122,15 @@ TalkOnly主持：Netbugs、Debug、ifg、方東A、占占、Q&A\
 TalkOnly嘉賓：小影\
 Software Freedom PodCast主持：Henry, Haggen
 
-<span style="text-decoration: underline;">公告</span>
+公告
 
-1\. 香港少有的Linux Kernel Developer, David Wong,
+1. 香港少有的Linux Kernel Developer, David Wong,
 於三月十九日離開了我們。喪禮訂於四月十六日星期五晚上八時在寶福山紀念館舉行(沙田大圍悠安街1號,
 大圍火車站度有小巴上, 約10分鐘左右一班)。大家可以到[We miss you David. A
 memorial for David Wong(黃德良)Facebook Fan
 Page](http://www.facebook.com/pages/We-miss-you-David-A-memorial-for-David-Wong-huang-de-liang/107253402634817)收到最新的消息。我們在此表達深切哀痛和慰問。
 
-2.
-今天是[自由](http://documentfreedom.org/)[文件日](http://documentfreedom.org/)，希望大家注意自由文件格式和公開標準的重要性。可以參考文章[Why
+2. 今天是[自由](http://documentfreedom.org/)[文件日](http://documentfreedom.org/)，希望大家注意自由文件格式和公開標準的重要性。可以參考文章[Why
 I’m rejecting your email
 attachment](http://www.fsf.org/news/why-im-rejecting-your-email-attachment)。
 
