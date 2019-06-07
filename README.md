@@ -37,6 +37,7 @@ Example?](http://www.computer.org/portal/web/csdl/doi/10.1109/52.744561)
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第十七集 March 9, 2010
 
 [Software Freedom PodCast Facebook
@@ -62,6 +63,7 @@ Patent](http://www.downes.ca/blackboard_patent.htm)\
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第十八集 March 16, 2010
 
 [Google Summer of Code訪問](http://code.google.com/soc/)
@@ -110,6 +112,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第二十集 March 31, 2010
 
 拜訪TalkOnly(一)
@@ -141,9 +144,10 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 [http://creativecommons.org/licenses/by/3.0/hk/](http://www.facebook.com/pages/Software-Freedom/355259818857)。
+
 第廿一集 April 6, 2010
 
-1\. 台灣自由軟件PodCast – [Born to
+1. 台灣自由軟件PodCast – [Born to
 MISrepresent](http://blog.roodo.com/ystuan/archives/cat_507121.html)\
 2.
 [微軟的免費Office](http://news.cnet.com/8301-13860_3-20001553-56.html)\
@@ -170,6 +174,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第廿二集 April 17, 2010
 
 拜訪TalkOnly(二、完)
@@ -189,12 +194,12 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857).\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 [http://creativecommons.org/licenses/by/3.0/hk/](http://www.facebook.com/pages/Software-Freedom/355259818857)。
+
 第廿三集 April 20, 2010
 
 訪問LinuxPilot
 
-1.
-[Mozilla官方2010第一季火狐使用數據](http://blog.mozilla.com/metrics/2010/03/31/mozillas-q1-2010-analyst-report-state-of-the-internet/)\
+1. [Mozilla官方2010第一季火狐使用數據](http://blog.mozilla.com/metrics/2010/03/31/mozillas-q1-2010-analyst-report-state-of-the-internet/)\
 2. 火狐包含來歷不明的根憑證
 ([1](http://www.theregister.co.uk/2010/04/06/mysterious_mozilla_apple_certificate/),[2](http://groups.google.com/group/mozilla.dev.security.policy/browse_thread/thread/b6493a285ba79998/26fca75f9aeff1dc))\
 3. [WebKit出了第二版 – WebKit2](http://trac.webkit.org/wiki/WebKit2)\
@@ -214,6 +219,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第廿四集 April 27, 2010
 
 1\. 為Windows而開發的[The Common Opensource Application Publishing
@@ -241,6 +247,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第廿五集 May 4, 2010
 
 1\. 跑Linux的”iPad” -&gt; WePad
@@ -264,6 +271,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第廿六集 May 11, 2010
 
 Business Models
@@ -299,6 +307,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第廿七集 May 18, 2010
 
 以版權打擊言論自由
@@ -330,6 +339,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第廿八集 May 25, 2010
 
 1.
@@ -347,6 +357,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第廿九集 June 8, 2010
 
 1\. [Linux雄霸超級電腦市場](http://www.top500.org/stats/list/35/osfam)\
@@ -369,6 +380,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第三十集 June 16, 2010
 
 1.
@@ -397,6 +409,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第三十一集 July 6, 2010
 
 向大家誠意推介社群Event：Maemo 開發與 MeeGo
@@ -447,6 +460,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 [![Creative Commons
 License](../wp-content/plugins/photo-dropper/images/cc.png){width="16"
 height="16"}](http://creativecommons.org/licenses/by/2.0/ "Attribution License")
+
 第三十二集 July 20, 2010
 
 Maemo開發與Meego(一）
@@ -466,6 +480,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第三十三集 July 27, 2010
 
 第一節\
@@ -524,6 +539,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 [![Creative Commons
 License](../wp-content/plugins/photo-dropper/images/cc.png){width="16"
 height="16"}](http://creativecommons.org/licenses/by/2.0/ "Attribution License")
+
 第三十四集 August 17, 2010
 
 1\. 今年[Software Freedom
@@ -547,6 +563,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 [![Creative Commons
 License](../wp-content/plugins/photo-dropper/images/cc.png){width="16"
 height="16"}](http://creativecommons.org/licenses/by/2.0/ "Attribution License")
+
 第三十五集 September 1, 2010
 
 1.[特別播音劇](http://sammy.hk/2010/08/30/if-linux-was-most-used-syste-in-the-world)\
@@ -571,6 +588,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 License](../wp-content/plugins/photo-dropper/images/cc.png){width="16"
 height="16"}](http://creativecommons.org/licenses/by/2.0/ "Attribution License")本PodCast以[共享創意署名
 3.0 香港授權條款授權](http://creativecommons.org/licenses/by/3.0/hk/) 。
+
 第三十六集：講女人 October 5, 2010
 
 [Ubuntu 10.10 HK
@@ -598,6 +616,7 @@ Chun](http://rhizome.org/announce/view/55907)\
 beta](http://www.h-online.com/open/news/item/MySQL-fork-Drizzle-goes-beta-1099213.html)\
 7. [Google announce WebP as an alternative to
 JPEG](http://www.h-online.com/open/news/item/Google-announce-WebP-as-an-alternative-to-JPEG-1099766.html)
+
 第三十七集 October 27, 2010
 
 先來個廣告…Mobile The Gathering (2010年11月6日)\
