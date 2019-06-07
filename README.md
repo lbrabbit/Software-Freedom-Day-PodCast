@@ -6,35 +6,34 @@
 
 新聞  
 1. [用戶集體訴訟控告 Sony 移除 PS3 的 Linux
-支援](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2332&Itemid=144;isletter=1)\
+支援](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2332&Itemid=144;isletter=1)  
 2. 微軟參加Joomla!社群
-([1](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2330&Itemid=144;isletter=1),[2](http://www.networkworld.com/community/node/60657))\
+([1](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2330&Itemid=144;isletter=1),[2](http://www.networkworld.com/community/node/60657))  
 3. Diaspora – Free/Open Source P2P Facebook
-([1](http://joindiaspora.com/),[2](%20http://gizmodo.com/5537502/diaspora-the-student+made-privacy+respecting-facebook-alternative),[3](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2964&blogid=14))\
-4. [OpenPandora最新消息](http://pandorapress.net/2010/05/14/omgomgomg/)\
-5. [新的檔案系統 btrfs](https://lwn.net/Articles/387196/)\
+([1](http://joindiaspora.com/),[2](%20http://gizmodo.com/5537502/diaspora-the-student+made-privacy+respecting-facebook-alternative),[3](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2964&blogid=14))  
+4. [OpenPandora最新消息](http://pandorapress.net/2010/05/14/omgomgomg/)  
+5. [新的檔案系統 btrfs](https://lwn.net/Articles/387196/)  
 6. [koha商業分突顯GPL對回歸封閉源碼的有限保障](http://lwn.net/Articles/386284/)
 
-主題：以版權打擊言論自由\
-三個例子\
-1. [Collateral Murder](http://www.collateralmurder.com/)\
+主題：以版權打擊言論自由  
+三個例子  
+1. [Collateral Murder](http://www.collateralmurder.com/)  
 2. [Ralph
-Lauren](http://www.examiner.com/x-10873-LA-Health-and-Beauty-Examiner~y2009m11d28-Photoshop-disasters-bring-fakery-to-light)\
+Lauren](http://www.examiner.com/x-10873-LA-Health-and-Beauty-Examiner~y2009m11d28-Photoshop-disasters-bring-fakery-to-light)  
 3. [Obama as
 Joker](http://www.readwriteweb.com/archives/censorship_or_copyright_infringement_flickr_takes_down_obama_as_joker_photo.php)
 
-主持：Henry, Haggen\
+主持：Henry, Haggen  
 Software Freedom PodCast介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。  
 -&gt; [Software Freedom PodCast Facebook
-Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)  
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
 第廿八集 May 25, 2010
 
-1.
-[Facebook上了時代雜誌](http://www.time.com/time/business/article/0,8599,1990582,00.html)\
+1. [Facebook上了時代雜誌](http://www.time.com/time/business/article/0,8599,1990582,00.html)\
 2. Fedora 13來了
 ([1](http://fedoraproject.org/wiki/Releases/13/Schedule),[2](http://www.desktoplinux.com/news/NS8716234495.html),[3](http://www.theregister.co.uk/2010/04/13/fedora_13_beta_review/))\
 3. Red Hat Business Model澄清\
@@ -74,30 +73,26 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 
 第三十集 June 16, 2010
 
-1.
-[分享也可以是一盤大生意](http://opendotdotdot.blogspot.com/2010/06/why-sharing-will-be-big-business.html)\
-2.
-[軟件界的黑洞](http://opendotdotdot.blogspot.com/2010/06/why-patents-are-like-black-holes.html)\
-3.
-[德國軟件專利案](http://fosspatents.blogspot.com/2010/05/german-high-court-declares-all-software.html)\
-4.
-[當科技進步到實物也可以隨意複製時](http://www.computerworlduk.com/community/blogs/index.cfm?blogid=14&entryid=2971)\
+1. [分享也可以是一盤大生意](http://opendotdotdot.blogspot.com/2010/06/why-sharing-will-be-big-business.html)  
+2. [軟件界的黑洞](http://opendotdotdot.blogspot.com/2010/06/why-patents-are-like-black-holes.html)  
+3. [德國軟件專利案](http://fosspatents.blogspot.com/2010/05/german-high-court-declares-all-software.html)  
+4. [當科技進步到實物也可以隨意複製時](http://www.computerworlduk.com/community/blogs/index.cfm?blogid=14&entryid=2971)  
 5. [Ubuntu 會更快追上新版本 Firefox
-的更新](http://www.phoronix.com/scan.php?page=news_item&px=ODMwNw)\
+的更新](http://www.phoronix.com/scan.php?page=news_item&px=ODMwNw)  
 6. [Should Mozilla Fork
-Firefox?](http://www.computerworlduk.com/community/blogs/index.cfm?blogid=14&entryid=2967)\
+Firefox?](http://www.computerworlduk.com/community/blogs/index.cfm?blogid=14&entryid=2967)  
 7. [2010 年的新版 OpenSolaris
-還會有嗎？](http://www.phoronix.com/scan.php?page=news_item&px=ODMwOQ)\
+還會有嗎？](http://www.phoronix.com/scan.php?page=news_item&px=ODMwOQ)  
 8. [iPhone 上與 Firefox
-有關的軟件](http://www.osnews.com/story/23370/Firefox_Home_Coming_to_the_iPhone)\
+有關的軟件](http://www.osnews.com/story/23370/Firefox_Home_Coming_to_the_iPhone)  
 9. [兩位主持初次試用 Appleseed](http://appleseed.haggenso.org)
 
 主持：Henry, Haggen
 
 Software Freedom PodCast介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
+Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。  
 -&gt; [Software Freedom PodCast Facebook
-Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
+Page](http://www.facebook.com/pages/Software-Freedom/355259818857)  
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
