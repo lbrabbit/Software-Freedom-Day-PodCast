@@ -21,8 +21,8 @@
 嘉賓：David Lee、Godfrey、Charles
 
 slim和swim的網址\
-http://slimnovation.3utilities.com/
-http://slim.cs.hku.hk/
+http://slimnovation.3utilities.com/   
+http://slim.cs.hku.hk/    
 一只Live DVD有齊兩個system，不用重複download。
 
 第四集 September 16, 2009
