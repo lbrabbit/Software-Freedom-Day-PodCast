@@ -1,193 +1,3 @@
-# Software-Freedom-Day-PodCast
-
-第一集 August 26, 2009
-
-第一集，介紹九月十九號舉行的Software Freedom Day，Software Freedom的來由和自由軟件之父－Richard Stallman
-嘉賓：Sammy、Ben
-
-公告：這集PodCast的第一個版本有來自Snoblind的Songs in the Key of Hope EP Track 5作為背景音樂 http://www.archive.org/details/SRmp3_026_Snoblind_-_Songs_in_the_Key_of_Hope
-。不過其license有Non-Commercial條款，有Google Adsense的網站不能使用，所以在第二版中除去。
-
-第二集 September 2, 2009
-
-第二集，介紹香港的Open Source Developers、Software Freedom\
-新聞：M$被告和PalmPre扮iPhone、Linus Torvalds\
-嘉賓：David Wong、Fai Wong
-
-第三集 September 9, 2009
-
-介紹專為管理多部電腦的slim和swim系統、如何脫離M$魔爪和OLPC一孩一電腦。\
-共享創意始創人Lawrence Lessig。\
-嘉賓：David Lee、Godfrey、Charles
-
-slim和swim的網址\
-http://slimnovation.3utilities.com/   
-http://slim.cs.hku.hk/    
-一只Live DVD有齊兩個system，不用重複download。
-
-第四集 September 16, 2009
-
-今集請來贊助國際軟件自由日的朋友，Sun
-Microsystems的Mickey、Cwlinux的Patrick和HKDay
-BBS的BenCrox，來討論如何用自由軟件黎搵錢 。
-第五集 October 20, 2009
-
-NTFS-3G的作者Tuxera跟微軟達成專利協議。阿根廷UTN(Universidad Tecnologica
-Nacional)大學跟微軟達成協議，拒絕Stallman演講。
-軟件介紹：
-1. Cedega－在Linux上跑Windows Apps的好幫手。http://www.cedega.com/
-2. PortableApss－在USB上可擕式應用軟件Linux上跑Windows Apps的好幫手。http://portableapps.com/
-主持：Haggen、Henry、Joyce
-
-介紹各種開源軟件Open Source Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
-本PodCast以共享創意署名 3.0 香港授權條款授權 http://creativecommons.org/licenses/by/3.0/hk/ 。
-
-第六集 October 27, 2009
-
-Stallman來港、Debian+FreeBSD、芬蘭立法寬頻上網成人權、WikiReader。\
-軟件介紹：Firefox套件-Ubiquity
-
-主持：Haggen、Henry\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第七集 November 3, 2009
-
-Red Hat股價超微軟\
-Linux Kernel Summit\
-介面設計，封閉比開放好？\
-N900和DRM\
-遊戲時間:\
-SuperTux <http://supertux.lethargik.org/>\
-Secret Maryo Chronicles <http://www.secretmaryo.org/>\
-Parallel Realities <http://www.parallelrealities.co.uk/>\
-NetHack <http://www.nethack.org/>
-<http://jedi.org/blog/archives/003676.html>
-
-主持：Haggen、Henry\
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第八集 November 19, 2009
-
-Symbian開源\
-Firefox更新\
-Oracle+MySQL的壟斷問題\
-Ubuntu 9.10的新功能 – Cloud Computing\
-UbuntuOne vs DropBox
-
-主持：Haggen、Henry 嘉賓：Ben\
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-第九集 December 22, 2009
-
-遠赴四川都江堰訪問OLPC義工團，介紹在不丹和四川的工作。
-
-主持：Haggen、Henry 嘉賓：Jacky、Charles、允良、Ping\
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
-
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第十集 December 22, 2009
-
-Times Square 也 Free Software  
-零九年大事回顧之一 [1Q](http://lwn.net/Articles/360835/)
-[2Q](http://lwn.net/Articles/363728/)  
-Google DNS  
-[Linux Reaches 32% Netbook Market
-Share](http://www.computerworld.com/s/article/9140343/Linux_s_share_of_netbooks_surging_not_sagging_says_analyst)  
-[Sugar on a Stick v2 – a.k.a. Blueberry –
-released](http://www.h-online.com/open/news/item/Sugar-on-a-Stick-v2-a-k-a-Blueberry-released-879332.html)  
-
-主持：Haggen、Henry\
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
-
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第十一集 December 29, 2009
-
-Microsoft 為 Linux kernel 提供 Hyper-V drivers\
-Microsoft 承認 Windows 7 工具程式包含 GPL 程式碼 微軟將公開原始程式\
-Negroponte: XO-1.75 goes ARM, XO-2 is canceled\
-PayPal 使用者條款\
-Opensource 與 Java\
-Samsung and Enlightenment\
-Chrome OS 初試
-
-主持：Haggen、Henry
-
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
-
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第十二集 January 5, 2010
-
-各位聽眾新年進步，我們雖然近聖誕除夕休息，不過還是搞了個輕盈版的PodCast：
-
-遠赴四川都江堰訪問OLPC義工團，介紹在香港的工作，並談翻牆軟件(這是訪問的第三節，第一、二節收錄在第009集。錄音質素欠佳，請見諒)。\
-自由軟件風雲錄：Firefox
-取得Tor的各種途徑：\
-<https://www.torproject.org/finding-tor>
-
-主持：Haggen、Henry 嘉賓：Jacky、Charles、Ping\
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第十三集 January 19, 2010
-
-1. [GSM 之破解被公開](http://lwn.net/Articles/368861/)  
-2. [EtherPad](http://etherpad.com/)  
-3. [Linux
-Journal](http://www.linuxjournal.com/content/openmovieeditor-and-blender-more-nle-delights)
-– [OpenMovie Editor](http://www.openmovieeditor.org/) and
-[Blender](http://www.openmovieeditor.org/)  
-4. [Help keep the Internet
-free](http://monty-says.blogspot.com/2009/12/help-keep-internet-free.html)(MySQL)  
-5. The 2009 Linux and free software timeline –
-[Q3](http://lwn.net/Articles/363783/) &
-[Q4](http://lwn.net/Articles/363786/)
-
-主持：Haggen、Henry  
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第十四集 February 9, 2010
-
-1\. [HTML5 Video Tag, H264 or
-Theora](http://www.osnews.com/story/22812/MPEG-LA_Further_Solidifies_Theora_as_the_Only_Video_Tag_Choice)\
-2. [TinyOgg](http://www.tinyogg.com/)\
-3. [流動版Firefox – Fennec](http://www.firefox.com/m)\
-4. 中国互联网络信息中心 (CNNIC)
-根證書([1](http://lwn.net/Articles/372264/),[2](http://felixcat.net/2010/01/throw-out-cnnic/))\
-5.
-[Avatar之製作](http://opendotdotdot.blogspot.com/2009/12/what-lies-at-heart-of-avatar.html)\
-6. [Facebook released HipHop for PHP: Move
-Fast](http://developers.facebook.com/news.php?blog=1&story=358)\
-7. [EU Software
-Patents](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2721&blogid=14)\
-8. [FSF objected to amended Google Book Search
-Settlement](http://www.fsf.org/news/2010-02-gbs-objection)
-
-主持：Henry、Haggen\
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
 第十五集 February 16, 2010
 
 今次請來三位嘉賓，不過本集的主角是N900並其中的Maemo系統。\
@@ -198,6 +8,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
+
 第十六集 February 23, 2010
 
 [Software Freedom PodCast Facebook
@@ -211,17 +22,13 @@ Announcement](http://flors.wordpress.com/2010/02/15/maemo-moblin-meego-join-us/)
 3. Oracle 完成購併 Sun 外界觀望後續效應 -&gt; [炒了兩個GNOME
 Accessibility
 Engineers](http://blog.grain-of-salt.com/index.php?itemid=394)  
-4.
-[微軟又教壞人](http://opendotdotdot.blogspot.com/2010/02/is-microsoft-exploiting-innocent.html)？  
-5.
-[大學的資訊安全問題](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2256&Itemid=144;isletter=1)  
-6.
-[OpenOffice市場佔有率上升](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2778&blogid=14)  
+4. [微軟又教壞人](http://opendotdotdot.blogspot.com/2010/02/is-microsoft-exploiting-innocent.html)？  
+5. [大學的資訊安全問題](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2256&Itemid=144;isletter=1)  
+6. [OpenOffice市場佔有率上升](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2778&blogid=14)  
 7. [如何破壞社群](http://lwn.net/Articles/370157/) -
 [Follow-up](http://it.toolbox.com/blogs/database-soup/sun-and-the-ten-ways-36517) -
 Abel哥的“[軟件·人性·見聞錄](http://me.abelcheung.org/articles/magazine/dark-side-of-foss-world/)”  
-8.
-[自由/開源軟件對電腦教育的負面影響](http://cacm.acm.org/blogs/blog-cacm/72144-the-impact-of-open-source-on-computing-education/fulltext)  
+8. [自由/開源軟件對電腦教育的負面影響](http://cacm.acm.org/blogs/blog-cacm/72144-the-impact-of-open-source-on-computing-education/fulltext)  
 - [Greg Wilson: Is the Open-Source Community Setting a Bad
 Example?](http://www.computer.org/portal/web/csdl/doi/10.1109/52.744561)
 
