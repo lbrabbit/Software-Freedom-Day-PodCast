@@ -6,21 +6,21 @@
 嘉賓：Sammy、Ben
 
 公告：這集PodCast的第一個版本有來自Snoblind的Songs in the Key of Hope EP Track 5作為背景音樂 http://www.archive.org/details/SRmp3_026_Snoblind_-_Songs_in_the_Key_of_Hope
-不過其license有Non-Commercial條款，有Google Adsense的網站不能使用，所以在第二版中除去。
+。不過其license有Non-Commercial條款，有Google Adsense的網站不能使用，所以在第二版中除去。
 
 第二集 September 2, 2009
 
-第二集，介紹香港的Open Source Developers、Software Freedom
-新聞：M$被告和PalmPre扮iPhone、Linus Torvalds
+第二集，介紹香港的Open Source Developers、Software Freedom\
+新聞：M$被告和PalmPre扮iPhone、Linus Torvalds\
 嘉賓：David Wong、Fai Wong
 
 第三集 September 9, 2009
 
 介紹專為管理多部電腦的slim和swim系統、如何脫離M$魔爪和OLPC一孩一電腦。
-共享創意始創人Lawrence Lessig。
-嘉賓：David Lee、Godfrey、Charles
+共享創意始創人Lawrence Lessig。\
+嘉賓：David Lee、Godfrey、Charles\
 
-slim和swim的網址
+slim和swim的網址\
 http://slimnovation.3utilities.com/
 http://slim.cs.hku.hk/
 一只Live DVD有齊兩個system，不用重複download。
@@ -89,8 +89,6 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 主持：Haggen、Henry 嘉賓：Jacky、Charles、允良、Ping\
 介紹各種開源軟件Open Source
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
-
-<div id=":x">
 
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
