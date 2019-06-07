@@ -79,16 +79,12 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 
 1. 台灣自由軟件PodCast – [Born to
 MISrepresent](http://blog.roodo.com/ystuan/archives/cat_507121.html)\
-2.
-[微軟的免費Office](http://news.cnet.com/8301-13860_3-20001553-56.html)\
+2. [微軟的免費Office](http://news.cnet.com/8301-13860_3-20001553-56.html)\
 3. Windows Mobile 7暫時不會有Firefox的開發
 ([1](http://arstechnica.com/microsoft/news/2010/03/winphones-first-big-native-code-casualty-firefox-on-winmob.ars?utm_source=microblogging&utm_medium=arstch&utm_term=Main%20Account&utm_campaign=microblogging),[2](http://www.engadget.com/2010/03/23/mozilla-halts-firefox-development-for-windows-mobile-wont-offe/))\
-4.
-[如何在Linux上同時安裝不同版本的Firefox](http://lwn.net/Articles/380420/rss)\
-5.
-[人類基因可以被登記成專利嗎](http://www.nytimes.com/2010/03/30/business/30gene.html?emc=eta1)?\
-6.
-[評Google和中國](http://www.rthk.org.hk/rthk/news/expressnews/20100331/news_20100331_55_657701.htm)\
+4. [如何在Linux上同時安裝不同版本的Firefox](http://lwn.net/Articles/380420/rss)\
+5. [人類基因可以被登記成專利嗎](http://www.nytimes.com/2010/03/30/business/30gene.html?emc=eta1)?\
+6. [評Google和中國](http://www.rthk.org.hk/rthk/news/expressnews/20100331/news_20100331_55_657701.htm)\
 7. PS3和OpenPandora的新消息
 
 香港少有的Linux Kernel Developer, **David Wong**,
@@ -136,8 +132,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857).\
 4. [MeeGo v1.0 Demo at IDF
 2000](http://maemocentral.com/2010/04/15/meego-1-0-running-on-a-netbook-other-devices-at-idf-2010/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MaemoCentral+%28Maemo+Central%29)\
 5. [Ubuntu火狐搜索器變變變](http://lwn.net/Articles/382689/)\
-6.
-[IBM真的不會告自由軟件作者嗎?](http://fosspatents.blogspot.com/2010/04/ibm-breaks-taboo-and-betrays-its.html)\
+6. [IBM真的不會告自由軟件作者嗎?](http://fosspatents.blogspot.com/2010/04/ibm-breaks-taboo-and-betrays-its.html)\
 7. Oracle收購Sun – Java之父James Gosling辭職
 ([1](http://www.h-online.com/open/news/item/Father-of-Java-leaves-Oracle-975146.html),[2](http://nighthacks.com/roller/jag/entry/time_to_move_on))
 
@@ -152,7 +147,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 
 第廿四集 April 27, 2010
 
-1\. 為Windows而開發的[The Common Opensource Application Publishing
+1. 為Windows而開發的[The Common Opensource Application Publishing
 Platform
 (CoApp)](http://blogs.msdn.com/garretts/archive/2010/03/31/the-common-opensource-application-publishing-platform-coapp.aspx)\
 2. Wired雜誌訪問Stallman
