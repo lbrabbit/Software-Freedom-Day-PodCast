@@ -127,17 +127,12 @@ Chrome OS 初試
 介紹各種開源軟件Open Source
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。
 
-<div id=":x">
-
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
-</div>
 第十二集 January 5, 2010
 
 各位聽眾新年進步，我們雖然近聖誕除夕休息，不過還是搞了個輕盈版的PodCast：
-
-<div id=":9k">
 
 遠赴四川都江堰訪問OLPC義工團，介紹在香港的工作，並談翻牆軟件(這是訪問的第三節，第一、二節收錄在第009集。錄音質素欠佳，請見諒)。\
 自由軟件風雲錄：Firefox
@@ -150,10 +145,9 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
-</div>
 第十三集 January 19, 2010
 
-1\. [GSM 之破解被公開](http://lwn.net/Articles/368861/)\
+1. [GSM 之破解被公開](http://lwn.net/Articles/368861/)\
 2. [EtherPad](http://etherpad.com/)\
 3. [Linux
 Journal](http://www.linuxjournal.com/content/openmovieeditor-and-blender-more-nle-delights)
@@ -165,15 +159,12 @@ free](http://monty-says.blogspot.com/2009/12/help-keep-internet-free.html)(MySQL
 [Q3](http://lwn.net/Articles/363783/) &
 [Q4](http://lwn.net/Articles/363786/)
 
-<div id=":9k">
-
 主持：Haggen、Henry\
 介紹各種開源軟件Open Source
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
-</div>
 第十四集 February 9, 2010
 
 1\. [HTML5 Video Tag, H264 or
@@ -191,15 +182,12 @@ Patents](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2721&b
 8. [FSF objected to amended Google Book Search
 Settlement](http://www.fsf.org/news/2010-02-gbs-objection)
 
-<div id=":9k">
-
 主持：Henry、Haggen\
 介紹各種開源軟件Open Source
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
 本PodCast以共享創意署名 3.0 香港授權條款授權
 <http://creativecommons.org/licenses/by/3.0/hk/> 。
 
-</div>
 第十五集 February 16, 2010
 
 今次請來三位嘉賓，不過本集的主角是N900並其中的Maemo系統。\
