@@ -147,19 +147,19 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 
 第十三集 January 19, 2010
 
-1. [GSM 之破解被公開](http://lwn.net/Articles/368861/)\
-2. [EtherPad](http://etherpad.com/)\
+1. [GSM 之破解被公開](http://lwn.net/Articles/368861/)  
+2. [EtherPad](http://etherpad.com/)  
 3. [Linux
 Journal](http://www.linuxjournal.com/content/openmovieeditor-and-blender-more-nle-delights)
 – [OpenMovie Editor](http://www.openmovieeditor.org/) and
-[Blender](http://www.openmovieeditor.org/)\
+[Blender](http://www.openmovieeditor.org/)  
 4. [Help keep the Internet
-free](http://monty-says.blogspot.com/2009/12/help-keep-internet-free.html)(MySQL)\
+free](http://monty-says.blogspot.com/2009/12/help-keep-internet-free.html)(MySQL)  
 5. The 2009 Linux and free software timeline –
 [Q3](http://lwn.net/Articles/363783/) &
 [Q4](http://lwn.net/Articles/363786/)
 
-主持：Haggen、Henry\
+主持：Haggen、Henry  
 介紹各種開源軟件Open Source
 Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
 本PodCast以共享創意署名 3.0 香港授權條款授權
@@ -203,34 +203,25 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 [Software Freedom PodCast Facebook
 Page](http://www.facebook.com/pages/Software-Freedom/355259818857)
 
-1\. Maemo + Moblin = [MeeGo](http://meego.com/)\
+1. Maemo + Moblin = [MeeGo](http://meego.com/)  
 - [Community
 Announcement](http://flors.wordpress.com/2010/02/15/maemo-moblin-meego-join-us/)
-
-2\. Aava Mobile’s “fully open” handset
-([1](http://lwn.net/Articles/374534/),[2](http://www.earthtimes.org/articles/show/aava-mobile-debuts-worldrsquos-first-fully-lsquoopenrsquo-mobile-device,1164568.shtml))
-
-3\. Oracle 完成購併 Sun 外界觀望後續效應 -&gt; [炒了兩個GNOME
+2. Aava Mobile’s “fully open” handset
+([1](http://lwn.net/Articles/374534/),[2](http://www.earthtimes.org/articles/show/aava-mobile-debuts-worldrsquos-first-fully-lsquoopenrsquo-mobile-device,1164568.shtml))  
+3. Oracle 完成購併 Sun 外界觀望後續效應 -&gt; [炒了兩個GNOME
 Accessibility
-Engineers](http://blog.grain-of-salt.com/index.php?itemid=394)
-
+Engineers](http://blog.grain-of-salt.com/index.php?itemid=394)  
 4.
-[微軟又教壞人](http://opendotdotdot.blogspot.com/2010/02/is-microsoft-exploiting-innocent.html)？
-
+[微軟又教壞人](http://opendotdotdot.blogspot.com/2010/02/is-microsoft-exploiting-innocent.html)？  
 5.
-[大學的資訊安全問題](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2256&Itemid=144;isletter=1)
-
+[大學的資訊安全問題](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2256&Itemid=144;isletter=1)  
 6.
-[OpenOffice市場佔有率上升](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2778&blogid=14)
-
-7\. [如何破壞社群](http://lwn.net/Articles/370157/)\
--
-[Follow-up](http://it.toolbox.com/blogs/database-soup/sun-and-the-ten-ways-36517)\
--
-Abel哥的“[軟件·人性·見聞錄](http://me.abelcheung.org/articles/magazine/dark-side-of-foss-world/)”
-
+[OpenOffice市場佔有率上升](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2778&blogid=14)  
+7. [如何破壞社群](http://lwn.net/Articles/370157/) -
+[Follow-up](http://it.toolbox.com/blogs/database-soup/sun-and-the-ten-ways-36517) -
+Abel哥的“[軟件·人性·見聞錄](http://me.abelcheung.org/articles/magazine/dark-side-of-foss-world/)”  
 8.
-[自由/開源軟件對電腦教育的負面影響](http://cacm.acm.org/blogs/blog-cacm/72144-the-impact-of-open-source-on-computing-education/fulltext)\
+[自由/開源軟件對電腦教育的負面影響](http://cacm.acm.org/blogs/blog-cacm/72144-the-impact-of-open-source-on-computing-education/fulltext)  
 - [Greg Wilson: Is the Open-Source Community Setting a Bad
 Example?](http://www.computer.org/portal/web/csdl/doi/10.1109/52.744561)
 
