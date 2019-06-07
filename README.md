@@ -1,68 +1,4 @@
-第十五集 February 16, 2010
 
-今次請來三位嘉賓，不過本集的主角是N900並其中的Maemo系統。\
-我們會由日常使用開始，一直講到軟件開發，為你介紹N900有什麼特別之處。
-
-主持：Henry、Haggen 嘉賓：Karl、Fai(lazyfai)、Amanda\
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第十六集 February 23, 2010
-
-[Software Freedom PodCast Facebook
-Page](http://www.facebook.com/pages/Software-Freedom/355259818857)
-
-1. Maemo + Moblin = [MeeGo](http://meego.com/)  
-- [Community
-Announcement](http://flors.wordpress.com/2010/02/15/maemo-moblin-meego-join-us/)
-2. Aava Mobile’s “fully open” handset
-([1](http://lwn.net/Articles/374534/),[2](http://www.earthtimes.org/articles/show/aava-mobile-debuts-worldrsquos-first-fully-lsquoopenrsquo-mobile-device,1164568.shtml))  
-3. Oracle 完成購併 Sun 外界觀望後續效應 -&gt; [炒了兩個GNOME
-Accessibility
-Engineers](http://blog.grain-of-salt.com/index.php?itemid=394)  
-4. [微軟又教壞人](http://opendotdotdot.blogspot.com/2010/02/is-microsoft-exploiting-innocent.html)？  
-5. [大學的資訊安全問題](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2256&Itemid=144;isletter=1)  
-6. [OpenOffice市場佔有率上升](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2778&blogid=14)  
-7. [如何破壞社群](http://lwn.net/Articles/370157/) -
-[Follow-up](http://it.toolbox.com/blogs/database-soup/sun-and-the-ten-ways-36517) -
-Abel哥的“[軟件·人性·見聞錄](http://me.abelcheung.org/articles/magazine/dark-side-of-foss-world/)”  
-8. [自由/開源軟件對電腦教育的負面影響](http://cacm.acm.org/blogs/blog-cacm/72144-the-impact-of-open-source-on-computing-education/fulltext)  
-- [Greg Wilson: Is the Open-Source Community Setting a Bad
-Example?](http://www.computer.org/portal/web/csdl/doi/10.1109/52.744561)
-
-主持：Henry、Haggen\
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
-
-第十七集 March 9, 2010
-
-[Software Freedom PodCast Facebook
-Page](http://www.facebook.com/pages/Software-Freedom/355259818857)
-
-1\. [Microsoft &
-Amazon專利栛議](http://opendotdotdot.blogspot.com/2010/02/amazon-sells-gnulinux-down-river.html)\
-2. Patent and Free Codec: Google acquired VP8
-([1](http://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube/),[2](http://x264dev.multimedia.cx/?p=292),[3](%20http://blog.gingertech.net/2010/02/20/googles-challenges-of-freeing-vp8/),[4](http://arstechnica.com/software/news/2008/10/benchmarking-flash-player-10.ars))\
-3.
-[蒸氣機時代的專利](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1284/1204)\
-4. [超連結的專利官司 － British
-Telecom](http://news.cnet.com/2100-1033-955001.html)\
-5. [學習管理系統的專利官司 – The Blackboard
-Patent](http://www.downes.ca/blackboard_patent.htm)\
-6. [版權法的另類觀點](http://questioncopyright.org/promise)\
-7.
-[被文件鎖死](http://opendotdotdot.blogspot.com/2010/02/continuing-scandal-of-vendor-lock-in.html)\
-8. [文件自由日](http://documentfreedom.org/)
-
-主持：Henry、Haggen\
-介紹各種開源軟件Open Source
-Software、社群新聞、自由軟件的生態如何影響IT業界並我們每天的日常生活。\
-本PodCast以共享創意署名 3.0 香港授權條款授權
-<http://creativecommons.org/licenses/by/3.0/hk/> 。
 
 第十八集 March 16, 2010
 
@@ -70,8 +6,7 @@ Software、社群新聞、自由軟件的生態如何影響IT業界並我們每�
 
 1. [可疑的中國互聯網絡信息中心 SSL
 憑證](http://www.openfoundry.org/index.php?option=com_content&task=view&id=2266&Itemid=144;isletter=1)\
-2.
-[微軟要投訴人家壟斷？](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2817&blogid=14)\
+2. [微軟要投訴人家壟斷？](http://www.computerworlduk.com/community/blogs/index.cfm?entryid=2817&blogid=14)\
 3. [重要的GPL官司 Jacobsen v.
 Katzer](http://www.consortiuminfo.org/standardsblog/article.php?story=201002190850472)\
 4. [一秒Boot起Linux](http://www.edn.com/article/CA6720353.html)\
@@ -92,8 +27,7 @@ Page](http://www.facebook.com/pages/Software-Freedom/355259818857)\
 -[主網站](http://www.open-pandora.org/)\
 -[OpenPandora計劃主持人EvilDragon在CeBit
 2010介紹開放式手提遊戲機的歷史](http://www.youtube.com/watch?v=T89mHvizwVg)\
-2.
-[微軟釋出開源軟件U-Prove](http://opendotdotdot.blogspot.com/2010/03/microsoft-proves-it-can-go-open-source.html)\
+2. [微軟釋出開源軟件U-Prove](http://opendotdotdot.blogspot.com/2010/03/microsoft-proves-it-can-go-open-source.html)\
 3. [The WikiPremed MCAT Course](http://www.wikipremed.com/)
 
 香港少有的Linux Kernel Developer, **David Wong**,
